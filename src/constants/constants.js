@@ -26,6 +26,15 @@ export const projects = [
     visit: 'https://littleangrybunnyv2.com/',
     id: 2,
   },
+  {
+    title: 'Dolla React Website - Smooth scroll',
+    description: "A React website using styled components and React smooth scroll. This is a tutorial from Brian Design from youtube. This website is fully responsive and it uses React hooks and React Router.",
+      image: '/images/4.png',
+      tags: ['React', 'Styled Components'],
+    source: 'https://github.com/Dxdiag14/dolla-website-react',
+    visit: '',
+    id: 2,
+  },
 ];
 
 export const TimeLineData = [
