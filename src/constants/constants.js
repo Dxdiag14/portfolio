@@ -32,7 +32,7 @@ export const projects = [
       image: '/images/4.png',
       tags: ['React', 'Styled Components'],
     source: 'https://github.com/Dxdiag14/dolla-website-react',
-    visit: '',
+    visit: 'https://dolla-react-website.netlify.app/',
     id: 2,
   },
 ];
