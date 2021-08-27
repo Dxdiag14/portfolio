@@ -35,6 +35,15 @@ export const projects = [
     visit: 'https://dolla-react-website.netlify.app/',
     id: 2,
   },
+  {
+    title: 'Lavish React Website - CSS',
+    description: "A React website using React Hooks and React Router. This is a tutorial from Brian Design from youtube. This website is fully responsive and the components is reusable.",
+      image: '/images/5.png',
+      tags: ['React', 'CSS'],
+    source: 'https://github.com/Dxdiag14/lavish-react-css',
+    visit: 'https://lavish-css.netlify.app/',
+    id: 2,
+  },
 ];
 
 export const TimeLineData = [
